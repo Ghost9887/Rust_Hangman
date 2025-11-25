@@ -12,9 +12,6 @@ fn main() {
         process::exit(1);
     });
 
-    //get rid of
-    println!("{selected_word}");
-
     start_game(selected_word);
 }
 
